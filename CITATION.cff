@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Si utiliza recAF, cite el software mediante esta referencia."
+type: software
+title: "recAF: Recomendaciones de Actividad Física a partir de acelerometría Matrix"
+version: 1.0.0
+repository-code: "https://github.com/VeroCabanas/recAF"
+authors:
+  - family-names: "Cabanas Sánchez"
+    given-names: "Verónica"
+    orcid: "https://orcid.org/0000-0003-1235-3535"
+    affiliation: "Universidad Autónoma de Madrid"
+abstract: >-
+  Flujo de trabajo en R que procesa archivos Matrix .bin con GGIR, extrae
+  estimaciones de actividad física moderada-vigorosa y genera un mini-informe
+  semanal numérico y gráfico conforme a un criterio configurable. Está orientado
+  a estudios en población adulta que necesitan una valoración rápida para aplicar
+  decisiones definidas previamente en el protocolo.
+license: MIT
+keywords:
+  - accelerometry
+  - physical activity
+  - moderate-to-vigorous physical activity
+  - GGIR
+  - reproducible research
+  - R

@@ -1,0 +1,40 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "recAF",
+  "description": "Flujo de trabajo en R para procesar archivos Matrix .bin obtenidos en la muñeca no dominante con GGIR y generar un mini-informe del tiempo semanal de actividad física moderada-vigorosa.",
+  "version": "1.0.0",
+  "dateCreated": "2025-05-17",
+  "dateModified": "2026-08-10",
+  "codeRepository": "https://github.com/VeroCabanas/recAF",
+  "issueTracker": "https://github.com/VeroCabanas/recAF/issues",
+  "programmingLanguage": "R",
+  "runtimePlatform": "R >= 4.4; validated with R 4.4.3",
+  "operatingSystem": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "applicationCategory": "Research software",
+  "license": "https://spdx.org/licenses/MIT",
+  "keywords": [
+    "accelerometry",
+    "physical activity",
+    "MVPA",
+    "GGIR",
+    "epidemiology",
+    "Matrix accelerometer"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Verónica",
+      "familyName": "Cabanas Sánchez",
+      "id": "https://orcid.org/0000-0003-1235-3535",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Autónoma de Madrid"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+# Datos de acelerometría y formatos asociados
+*.bin
+*.cwa
+*.gt3x
+*.csv.gz
+
+# Resultados con posible información individual
+Resultados/
+resultados/
+results/*
+!results/.gitkeep
+data/input/*
+!data/input/.gitkeep
+data/processed/
+
+# Objetos y sesiones de R
+*.RData
+*.rds
+*.Rhistory
+.Rproj.user/
+.Ruserdata
+
+# Entornos locales
+renv/library/
+renv/staging/
+.Renviron
+.env
+
+# Archivos temporales y del sistema
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*.log
+
