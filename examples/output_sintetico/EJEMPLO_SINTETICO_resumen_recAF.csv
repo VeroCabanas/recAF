@@ -1,0 +1,2 @@
+"participant_id","moderate_bouted_weekly_min","vigorous_weekly_min","mvpa_weekly_min","threshold_weekly_min","percentage_of_threshold","meets_threshold"
+"EJEMPLO_SINTETICO",105,70,175,150,116.666666666667,TRUE
