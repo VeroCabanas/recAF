@@ -3,6 +3,7 @@ message: "Si utiliza recAF, cite el software mediante esta referencia."
 type: software
 title: "recAF: Recomendaciones de Actividad Física a partir de acelerometría Matrix"
 version: 1.0.0
+date-released: 2025-05-17
 repository-code: "https://github.com/VeroCabanas/recAF"
 authors:
   - family-names: "Cabanas Sánchez"
